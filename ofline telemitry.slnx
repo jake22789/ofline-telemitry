@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ofline telemitry/ofline telemitry.csproj" />
+  <Project Path="OflineTelemitry.AppHost/OflineTelemitry.AppHost.csproj" />
+</Solution>
